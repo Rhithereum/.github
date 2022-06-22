@@ -18,6 +18,7 @@
 ### - [Basic Tutorials](./tutorials/basic/README.md)
 ### -🏗️(coming soon) [Fungible Token](./tutorials/ft/README.md)
 ### -🏗️(coming soon) [Non Fungible Token](./tutorials/nft/README.md)
+### -🏗️(coming soon) [Fungible Token + Non Fungible Token](./tutorials/ft-nft/README.md)
 ### -🏗️(coming soon) [Decentralized Finance](./tutorials/defi/README.md)
 ### -🏗️(coming soon) [Decentralized Identifier](./tutorials/did/README.md)
 
@@ -31,6 +32,10 @@
 
 ## 🧭 RoadMap
  - [ ] Tutorial(Geth, RPC, Truffle, Hardhat, Web3.js, Ethers.js, ERC-20, ERC-721, ERC-1155, DeFi, DID)
+ - [ ] Tutorial(ERC-20, ERC-721)
+ - [ ] Tutorial(DID)
+ - [ ] Tutorial(DeFi)
+ - [ ] Tutorial(ERC-1155)
  - [ ] Convention(PR, Project Doc)
  - [ ] DEMO: `Contract Bank` - Contract Management
  - [ ] DEMO: `MYT(Make Your Coin)` - Custom Token 

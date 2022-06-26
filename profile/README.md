@@ -13,14 +13,14 @@
 
 <br><br><br><br><br>
 
-## ✨ Ethereum Development Guide
+## ✨ [Ethereum Development Guide](https://github.com/Rhithereum/ethereum-development-guide)
 
-### - [Basic Tutorials](./tutorials/basic/README.md)
-### -🏗️(coming soon) [Fungible Token](./tutorials/ft/README.md)
-### -🏗️(coming soon) [Non Fungible Token](./tutorials/nft/README.md)
-### -🏗️(coming soon) [Fungible Token + Non Fungible Token](./tutorials/ft-nft/README.md)
-### -🏗️(coming soon) [Decentralized Finance](./tutorials/defi/README.md)
-### -🏗️(coming soon) [Decentralized Identifier](./tutorials/did/README.md)
+ - Basic
+ - Fungible Token
+ - Non Fungible Token
+ - Fungible Token + Non Fungible Token
+ - Decentralized Finance
+ - Decentralized Identifier
 
 <br><br><br><br><br>
 
@@ -36,7 +36,7 @@
  - [ ] Tutorial(DID)
  - [ ] Tutorial(DeFi)
  - [ ] Tutorial(ERC-1155)
- - [ ] Convention(PR, Project Doc)
+ - [X] Convention(PR)
  - [ ] DEMO: `Contract Bank` - Contract Management
  - [ ] DEMO: `MYT(Make Your Coin)` - Custom Token 
  - [ ] DEMO: `NFT Marketplace` - nft
@@ -44,6 +44,7 @@
  - [ ] DEMO: DID
  - [ ] DEMO: Online Contract Signing `Contract Bank`
  - [ ] Smart Contract Security
+ - [ ] Set PR Format
 
 <br><br><br><br><br>
 
@@ -51,7 +52,25 @@
 
 ### `Commit`
 
-follow this site https://udacity.github.io/git-styleguide/ as far as possible
+Follow this site https://udacity.github.io/git-styleguide/ as far as possible
+
+<br><br>
+
+### `Pull Request`
+
+#### - Please include the contents below at least
+
+##### 1. `Title`
+
+Short informative summary of the pull request
+
+ - format: {type}: {Subject}
+
+    - the type and subject should follow this site https://udacity.github.io/git-styleguide/
+
+##### 2. `Description`
+
+More detailed explanatory text describing the PR for the reviewer
 
 <br><br><br><br><br>
 

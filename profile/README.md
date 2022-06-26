@@ -31,11 +31,12 @@
 <br><br><br><br><br>
 
 ## 🧭 RoadMap
- - [ ] Tutorial(Geth, RPC, Truffle, Hardhat, Web3.js, Ethers.js, ERC-20, ERC-721, ERC-1155, DeFi, DID)
- - [ ] Tutorial(ERC-20, ERC-721)
- - [ ] Tutorial(DID)
+ - [ ] Tutorial(Basic)
+ - [ ] Tutorial(FT)
+ - [ ] Tutorial(NFT)
+ - [ ] Tutorial(FT+NFT)
+ - [ ] Tutorial(Decentralized Identifier)
  - [ ] Tutorial(DeFi)
- - [ ] Tutorial(ERC-1155)
  - [X] Convention(PR)
  - [ ] DEMO: `Contract Bank` - Contract Management
  - [ ] DEMO: `MYT(Make Your Coin)` - Custom Token 
